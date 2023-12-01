@@ -14,6 +14,43 @@ public class FindDuplicateFromList {
 
                 .filter(num -> Collections.frequency(numbers, num) > 1)
                 .distinct()
+
+        asdfasdfasd fnsdaf
+        asfjadskfbasd,f asd
+        'fdasldfbajsd f,asdf
+        asndfjasdb vfjasd f
+        f asdjfk adshfbv asjfb ads
+        fasf adsv aljgvravbad vadfv
+        '
+        asdfasdfasd fnsdaf
+        asfjadskfbasd,f asd
+        'fdasldfbajsd f,asdf
+        asndfjasdb vfjasd f
+        f asdjfk adshfbv asjfb ads
+        fasf adsv aljgvravbad vadfv
+        '
+        asdfasdfasd fnsdaf
+        asfjadskfbasd,f asd
+        'fdasldfbajsd f,asdf
+        asndfjasdb vfjasd f
+        f asdjfk adshfbv asjfb ads
+        fasf adsv aljgvravbad vadfv
+        '
+        asdfasdfasd fnsdaf
+        asfjadskfbasd,f asd
+        'fdasldfbajsd f,asdf
+        asndfjasdb vfjasd f
+        f asdjfk adshfbv asjfb ads
+        fasf adsv aljgvravbad vadfv
+        '
+        asdfasdfasd fnsdaf
+        asfjadskfbasd,f asd
+        'fdasldfbajsd f,asdf
+        asndfjasdb vfjasd f
+        f asdjfk adshfbv asjfb ads
+        fasf adsv aljgvravbad vadfv
+        '
+
                 .collect(Collectors.toList());
 
 
