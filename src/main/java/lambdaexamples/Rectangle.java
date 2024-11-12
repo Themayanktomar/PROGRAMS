@@ -1,5 +1,7 @@
 package lambdaexamples;
 
+import java.awt.*;
+
 abstract class AbstractShape {
     protected int sides;
 
@@ -15,7 +17,7 @@ class Main
     public static void main(String[] args) {
 
         Rectangle rectangle = new Rectangle(4,55);
-        System.out.println(rectangle.sides);
+        System.out.println(rectangle.width);
 
     }
 }
