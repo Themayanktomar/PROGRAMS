@@ -16,4 +16,7 @@ public class Employee {
     public int getAge() {
         return age;
     }
+
+    public static final int a = 0;
+    public final static int d = 9;
 }
