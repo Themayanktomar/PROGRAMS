@@ -14,6 +14,7 @@ public class HighestSalDeptWise {
                         .collectingAndThen(Collectors.toList() , list -> list.stream()
                                 .max(Comparator.comparingDouble(Employee::getSalary)))));
 
+
         System.out.println("Highest Salary of each dept : " + highestSalDeptWiseMap);
     }
 }

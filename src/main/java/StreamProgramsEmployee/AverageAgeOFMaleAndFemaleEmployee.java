@@ -1,7 +1,6 @@
 package StreamProgramsEmployee;
 
-import java.util.DoubleSummaryStatistics;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class AverageAgeOFMaleAndFemaleEmployee {

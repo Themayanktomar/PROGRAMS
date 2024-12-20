@@ -11,7 +11,7 @@ public class AddSuffixPrefix {
 
         List<String> modifiedStrings = strings.stream()
                 .map(s -> {
-                    StringJoiner joiner = new StringJoiner("_" );
+                    StringJoiner joiner = new StringJoiner("");
                     joiner.add("fruit").add(s).add("sweet");
                     return joiner.toString();
                 })

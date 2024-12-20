@@ -9,5 +9,7 @@ public class NumOfEmpInDepartment {
 
         Map<String , Long>  numOfEmpInDeptMap = Employee.getEmployeeList().stream()
                 .collect(Collectors.groupingBy(Employee::getDeptName , Collectors.counting()));
+
+        System.out.println(numOfEmpInDeptMap);
     }
 }

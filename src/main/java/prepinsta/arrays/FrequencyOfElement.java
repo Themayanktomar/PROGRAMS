@@ -21,6 +21,14 @@ public class FrequencyOfElement {
             frequencyMap.put(arr[i] , frequency);
             frequency = 0;
         }
+
+        for (Map.Entry<Integer , Integer> entry : frequencyMap.entrySet())
+        {
+            if (entry.getValue()%2 !=0)
+            {
+                System.out.println(entry.getKey() + " Comes Odd number of times");
+            }
+        }
         System.out.println(frequencyMap);
     }
 
@@ -28,6 +36,6 @@ public class FrequencyOfElement {
 
     public static void main(String[] args) {
 
-        findFrequencyOFEachElement(new int[]{10,10,20,20,20,30,30,30,30});
+        findFrequencyOFEachElement(new int[]{10,10,10,20,20});
     }
 }
