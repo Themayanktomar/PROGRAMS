@@ -1,0 +1,34 @@
+Group the Employees by city.
+Group the Employees by age.
+Find the count of male and female employees present in the organization.
+Print the names of all departments in the organization.
+Print employee details whose age is greater than 28.
+Find the maximum age of employees.
+Print the average age of male and female employees.
+Print the number of employees in each department.
+Find the oldest employee.
+Find the youngest female employee.
+Find employees whose age is greater than 30 and less than 30.
+Find the department name with the highest number of employees.
+Find if there are any employees from the HR department.
+Find the department names where the number of employees is over 3.
+Find distinct department names that employees work for.
+Find all employees who live in ‘Blore’ city, sort them by their name, and print their names.
+Find the total number of employees in the organization.
+Find the employee count in every department.
+Find the department with the highest number of employees.
+Sort employees by age and name.
+Find the highest experienced employees in the organization.
+Print the average and total salary of the organization.
+Print the average salary of each department.
+Find the highest salary in the organization.
+Find the second highest salary in the organization.
+Find the Nth highest salary in the organization.
+Find the highest-paid salary in the organization based on gender.
+Find the lowest-paid salary in the organization based on gender.
+Sort the employees' salary in ascending order.
+Sort the employees' salary in descending order.
+Find the highest salary in each department.
+Find the second-highest salary in each department.
+Sort employees' salary in each department in ascending order.
+Sort employees' salary in each department in descending order.
