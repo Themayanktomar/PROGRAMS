@@ -9,6 +9,23 @@ public class MaxInList {
 
         List<Integer> numbers = Arrays.asList(5, 2, 8, 3, 1);
         Optional<Integer> max = numbers.stream()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 .max(Integer::compareTo); // (a, b) -> a.compareTo(b)
         max.ifPresent(System.out::println); //max.ifPresent(num -> System.out.println(num));
 
